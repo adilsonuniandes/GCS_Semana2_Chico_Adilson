@@ -1,0 +1,12 @@
+{
+  "app_name": "MediConnect",
+  "environment": "development",
+  "debug": false,
+  "database": {
+    "host": "localhost",
+    "port": 5432,
+    "name": "mediconnect",
+    "user": "usuario_ejemplo",
+    "password": "NO_COLOCAR_CREDENCIALES_REALES"
+  }
+}
