@@ -13,3 +13,5 @@
 
 - RNF-001: El sistema deberá presentar una interfaz clara y comprensible para usuarios sin conocimientos avanzados de contabilidad.
 - RNF-002: El sistema deberá proteger la información financiera almacenada.
+
+- RF-007: El sistema deberá permitir exportar los indicadores financieros en formato PDF.
